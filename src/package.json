@@ -1,0 +1,25 @@
+{
+  "name": "workhistory",
+  "version": "1.0.0",
+  "description": "App to record your working time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workhistory/workhistory.git"
+  },
+  "keywords": [
+    "work",
+    "history",
+    "time",
+    "record"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/workhistory/workhistory/issues"
+  },
+  "homepage": "https://github.com/workhistory/workhistory#readme"
+}
