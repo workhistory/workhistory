@@ -21,5 +21,13 @@
   "bugs": {
     "url": "https://github.com/workhistory/workhistory/issues"
   },
-  "homepage": "https://github.com/workhistory/workhistory#readme"
+  "homepage": "https://github.com/workhistory/workhistory#readme",
+  "dependencies": {
+    "electron": "^1.6.2"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.3",
+    "karma": "^1.6.0",
+    "typescript": "^2.2.2"
+  }
 }
